@@ -1,10 +1,9 @@
-# Admin presets for Moodle
+# Admin presets2 for Moodle
+
+its a fork of (https://github.com/DigiDago/moodle-block_admin_presets) with some new features
 
 Block to export and import Moodle administration settings
 
-## Build status
-
-[![Build Status](https://travis-ci.org/DigiDago/moodle-block_admin_presets.svg?branch=master)](https://travis-ci.org/DigiDago/moodle-block_admin_presets)
 
 ## Features
 
@@ -18,17 +17,6 @@ Block to export and import Moodle administration settings
 ## See also
 * Modules and Plugins entry: https://moodle.org/plugins/view.php?plugin=block_admin_presets
 
-
-Maintainer
-============
-AdminPreset was initialy developed by David Monllaó. It is currently maintained by Pimenko team.
-
-
-Any Problems, questions, suggestions
-===================
-If you have a problem with this block, suggestions for improvement, drop an email at :
-- Pimenko :  contact@pimenko.com
-- Github : https://github.com/DigiDago/moodle-block_admin_presets
 
 Usage
 ===================
