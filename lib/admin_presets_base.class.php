@@ -113,8 +113,7 @@ class admin_presets_base {
 
                 $actions = array();
                 $actions[] = html_writer::link($previewlink, strtolower(get_string("preview")));
-                $actions[] = html_writer::link($loadlink, get_string("load",
-                        "block_admin_presets"));
+                $actions[] = html_writer::link($loadlink, get_string("load", "block_admin_presets2"));
                 $actions[] = html_writer::link($downloadlink, strtolower(get_string("download")));
                 $actions[] = html_writer::link($deletelink, strtolower(get_string("delete")));
 
