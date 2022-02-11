@@ -17,7 +17,7 @@
 /**
  * Admin presets block main controller
  *
- * @package          blocks/admin_presets2
+ * @package          blocks_admin_presets2
  * @copyright        2019 Pimenko <support@pimenko.com><pimenko.com>
  * @author           Jordan Kesraoui | DigiDago
  * @orignalauthor    David Monllaó <david.monllao@urv.cat>
@@ -26,9 +26,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2021052706;
-$plugin->requires = 2016052300;        // Requires this Moodle version
+$plugin->version = 2022021000;
+$plugin->requires = 2021051700;        // Requires this Moodle version
 $plugin->component = 'block_admin_presets2';
-$plugin->release = '3.4';
+$plugin->release = 'V2.0';
 $plugin->cron = 0;
 $plugin->maturity = MATURITY_STABLE;
